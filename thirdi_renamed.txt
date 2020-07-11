@@ -1,7 +1,0 @@
-this is the version 1 of my project
-
-i want this to go into the commit2
-
-changed by harry
-
-this is changed now
